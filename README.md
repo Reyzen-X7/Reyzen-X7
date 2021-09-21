@@ -1,4 +1,4 @@
-### Yahoo Minna👋 I'm Reyzenn
+### Moshi moshi 👋 I'm Reyzenn
 <p align="center">
 <img src="https://i.ibb.co/yd9WpDH/IMG-20210110-WA0240.png" alt="IMG" width="200" height="170"/>
 </p>
@@ -18,7 +18,7 @@
 
 
 <p align="center">
-<img src="https://avatars.githubusercontent.com/Reyzenn" width="240" height="240"
+<img src="https://avatars.githubusercontent.com/Reyzenn" width="170" height="170"
 </p>
 
 
