@@ -18,7 +18,7 @@
 
 
 <p align="center">
-<img src="https://i.ibb.co/w4XT5bT/FB-IMG-16121708465398817.jpg" alt="IMG" width="170" height="200"/>
+<img src="https://avatars.githubusercontent.com/Reyzenn" width="240" height="240"
 </p>
 
 
