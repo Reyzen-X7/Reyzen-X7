@@ -23,11 +23,11 @@
 </p>
 </p>
 
-### G1 REYZEN AFC
-</p>
-https://chat.whatsapp.com/KevKdD6FNT9AkVtrbpHDk9
-
-
+## Sosmed
+- [ G1 Reyzen - AFC ](https://chat.whatsapp.com/KevKdD6FNT9AkVtrbpHDk9)
+- [ Reypartner ](https://github.com/YuzzuKamiyaka)
+- [ Whatsapp ](wa.me/6283148375193)
+- [ Instagram ](instargam.com/sky.lynx4)
 
 
 
