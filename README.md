@@ -20,8 +20,12 @@
 <p align="center">
 <img src="https://avatars.githubusercontent.com/Reyzenn" width="170" height="170"
 </p>
+</p>
+</p>
 
-
+### G1 REYZEN AFC
+</p>
+https://chat.whatsapp.com/KevKdD6FNT9AkVtrbpHDk9
 
 
 
